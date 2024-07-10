@@ -1,0 +1,1 @@
+# mindwaytech2010.github.io

@@ -1,0 +1,213 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#666666;
+	margin:0px;
+	text-align:left;
+}
+.bg_shadow_left {
+	background-image:url(../images123/interface/interface_05.jpg);
+	width:6px;
+	background-repeat:repeat-y;
+}
+.bg_shadow_right {
+	background-image:url(../images123/interface/interface_06.jpg);
+	width:6px;
+	background-repeat:repeat-y;
+}
+.bg_menubar {
+	background-image:url(../images123/interface/interface_13.jpg);
+	height:37px;
+	background-repeat:repeat-x;
+}
+.padding10 {
+	padding:10px;
+}
+.padding10_10_10_0 {
+	padding:10px 10px 10px 0;
+}
+.int_tl {
+	background-image:url(../images123/interface/interface_19.jpg);
+	width:7px;
+	height:44px;
+	background-repeat:no-repeat;
+}
+.int_tc {
+	background-image:url(../images123/interface/interface_20.jpg);
+	height:44px;
+	background-repeat:repeat-x;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	color:#333;
+	text-align:left;
+}
+.int_tr {
+	background-image:url(../images123/interface/interface_23.jpg);
+	width:9px;
+	height:44px;
+	background-repeat:no-repeat;
+}
+.int_ml {
+	background-image:url(../images123/interface/interface_ml.jpg);
+	width:7px;
+	background-repeat:repeat-y;
+}
+.int_mr {
+	background-image:url(../images123/interface/interface_31.jpg);
+	width:9px;
+	background-repeat:repeat-y;
+}
+.int_bl {
+	background-image:url(../images123/interface/interface_32.jpg);
+	width:7px;
+	height:10px;
+	background-repeat:no-repeat;
+}
+.int_bm {
+	background-image:url(../images123/interface/interface_33.jpg);
+	height:10px;
+	background-repeat:repeat-x;
+}
+.int_br {
+	background-image:url(../images123/interface/interface_34.jpg);
+	width:9px;
+	height:10px;
+	background-repeat:no-repeat;
+}
+img {
+	vertical-align:middle;
+	border:0px;
+}
+.paddingleft10px {
+	padding-left:10px;
+}
+
+a.link_readmore:link, a.link_readmore:visited, a.link_readmore:active {
+	font-family:Tahoma;
+	font-size:10px;
+	font-weight:bold;
+	color:#333;
+	text-decoration:none;
+	background-image:url(../images123/interface/interface_38.jpg);
+	padding-left:7px;
+	background-position:left;
+	background-repeat:no-repeat;
+}
+a.link_readmore:hover {
+	color:#CCC;
+	text-decoration:underline;
+}
+
+a.link_general:link, a.link_general:visited, a.link_general:active {
+	font-family:Tahoma;
+	font-size:11px;
+	color:#bd090c;
+	text-decoration:none;
+	background-image:url(../images123/interface/interface_41.jpg);
+	padding-left:10px;
+	background-position:left;
+	background-repeat:no-repeat;
+}
+a.link_general:hover {
+	color:#CCC;
+	text-decoration:underline;
+}
+
+.content_justify {
+	font-family:Arial;
+	font-size:8pt;
+	color:#333;
+	line-height:18px;
+	text-align:justify;
+}
+li {
+	list-style-position: outside;
+	list-style-image: url(../images123/interface/news_events_bullet.jpg);
+}
+.news_scroller {
+	font-family:Tahoma;
+	font-size:8pt;
+	color:#333;
+	background-image:url(../images123/interface/news_events_bullet.jpg);
+	padding-left:8px;
+	background-repeat:no-repeat;
+	background-position:left;
+	line-height:15pt;
+}
+.bg_footer {
+	background-image:url(../images123/interface/interface_45.jpg);
+	height:55px;
+	background-repeat:repeat-x;
+	font-family:Verdana;
+	font-size:9px;
+	color:#FFF;
+}
+
+a.link_footer:link, a.link_footer:visited, a.link_footer:active {
+	font-family:Verdana;
+	font-size:9px;
+	color:#FFF;
+	text-decoration:none;
+}
+a.link_footer:hover {
+	color:#FF0;
+	text-decoration:underline;
+}
+.padding0_10_10_10 {
+	padding:0 10px 10px 10px;
+}
+.heading3 {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:13px;
+	font-weight:bold;
+	color:#900;
+}
+.heading2 {
+	font-family:Arial;
+	font-size:11px;
+	font-weight:bold;
+	color:#069;
+}
+.heading1 {
+	font-family:Arial;
+	font-size:8pt;
+	color:#333;
+	line-height:18px;
+	font-weight:bold;
+}
+.form_textbox {
+	font-family:Tahoma;
+	font-size:11px;
+	color:#333;
+	padding:2px;
+	border:solid 1px #fb9cb1;
+}
+.form_textbox_radio {
+	font-family:Tahoma;
+	font-size:11px;
+	color:#333;
+	padding:2px;
+	border:solid 1px #fb9cb1;
+}
+.fldrequire {
+	color:#f00;
+	font-weight:bold;
+
+}
+.mailsuccess
+{
+	color:#f00;
+	font-weight:bold;
+	text-align:center;
+}
+.form_submit {
+	font-family:Arial;
+	font-size:10px;
+	font-weight:bold;
+	background-image:url(../images123/submenu_over.jpg);
+	padding:5px;
+	background-repeat:repeat-x;
+	border:solid 1px #ffb80d;
+	cursor:pointer;
+	color:#FFF
+}

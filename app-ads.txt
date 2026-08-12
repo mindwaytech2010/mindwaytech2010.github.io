@@ -1,3 +1,5 @@
+#Admob
+google.com, pub-8671093147462752, DIRECT, f08c47fec0942fa0
 #Applovin
 applovin.com, d86062852ff10b633125ef7538d7d0ff, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
